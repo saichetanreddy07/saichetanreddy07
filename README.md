@@ -111,7 +111,7 @@ https://github.com/saichetanreddy07/Meta-Learning-Time-Series-Forecasting
 ## 📫 Connect With Me
 
 - Email: **badvel.saichetanreddy@gmail.com**
-- LinkedIn: *(Add your profile link here)*
+- LinkedIn: *(https://www.linkedin.com/in/sai-chetan-reddy-a18b4624b/)*
 - GitHub: **github.com/saichetanreddy07**
 
 ---
