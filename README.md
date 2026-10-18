@@ -1,105 +1,129 @@
-# Hi, I'm Sai Chetan Reddy 👋
+# Hi, I'm Sai Chetan Reddy
 
-### AI Engineer | Machine Learning | Data Analytics | Generative AI
+### Computer Science Graduate (Artificial Intelligence) | AI | Machine Learning | Data Analytics | Backend Development
 
-I'm a Computer Science (Artificial Intelligence) undergraduate passionate about building intelligent applications that combine Machine Learning, Large Language Models, and Data Analytics.
-
-I enjoy developing end-to-end AI systems—from data processing and model development to APIs and user-facing applications.
+Computer Science graduate specializing in Artificial Intelligence with hands-on experience building end-to-end AI, machine learning, backend, and data analytics applications. Passionate about developing scalable software solutions using Python, SQL, FastAPI, LLMs, Retrieval-Augmented Generation (RAG), and modern data engineering practices.
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-### 🧠 PokéDex AI — Hybrid RAG-Based Recommendation System
+## PokéDex AI — Hybrid RAG-Based Recommendation & Knowledge Retrieval System
 
-An AI-powered Pokémon assistant built using Retrieval-Augmented Generation (RAG), semantic search, and local LLM inference.
+An AI-powered Pokémon assistant combining Retrieval-Augmented Generation (RAG), semantic search, and local LLM inference for intelligent question answering and recommendations.
 
-**Highlights**
-- Semantic Search using SentenceTransformers
-- ChromaDB Vector Database
-- LangChain + Ollama
-- FastAPI Backend
-- Gradio Interface
-- Team Recommendation Engine
+### Highlights
 
-**Tech Stack**
+- Indexed 821+ knowledge documents using ChromaDB
+- Semantic search with SentenceTransformers embeddings
+- Local LLM inference using Ollama and Llama 3
+- FastAPI backend with Gradio interface
+- Intelligent recommendation engine
+
+### Tech Stack
 
 `Python` `FastAPI` `LangChain` `Ollama` `ChromaDB` `SentenceTransformers` `Gradio`
 
-🔗 Repository: https://github.com/saichetanreddy07/pokedex-ai-rag
+**Repository:**  
+https://github.com/saichetanreddy07/pokedex-ai-rag
 
 ---
 
-### 📊 Enterprise SQL Analytics & Business Intelligence Platform
+## RestaurantAI — Restaurant Operations Management System
 
-End-to-end Business Intelligence project demonstrating data engineering, SQL analytics, ETL pipelines, and Power BI dashboards.
+A full-stack backend application designed to streamline restaurant operations through secure APIs, database management, and scalable backend architecture.
 
-**Highlights**
-- Large-scale ETL Pipeline
-- PostgreSQL Data Warehouse
-- SQL Analytics
-- Interactive Power BI Dashboards
-- Business KPI Analysis
+### Highlights
 
-**Tech Stack**
+- RESTful API development using FastAPI
+- Relational database design with MySQL
+- SQLAlchemy ORM for database operations
+- Pydantic-based request validation
+- Modular and scalable backend architecture
+
+### Tech Stack
+
+`Python` `FastAPI` `SQLAlchemy` `MySQL` `Pydantic` `Alembic`
+
+**Repository:**  
+https://github.com/saichetanreddy07/Restaurant-AI
+
+---
+
+## Enterprise SQL Analytics & Business Intelligence Platform
+
+End-to-end Business Intelligence platform demonstrating ETL pipelines, SQL analytics, PostgreSQL, and interactive Power BI dashboards.
+
+### Highlights
+
+- Processed a 5.27 GB e-commerce dataset
+- Designed ETL and data validation pipeline
+- PostgreSQL-based analytical database
+- Interactive Power BI dashboards for KPI reporting
+- Business-focused SQL analytics
+
+### Tech Stack
 
 `Python` `SQL` `PostgreSQL` `Power BI` `Pandas`
 
-🔗 Repository:
+**Repository:**  
 https://github.com/saichetanreddy07/ecommerce-sql-bi-platform
 
 ---
 
-### 📈 Meta-Learning Framework for Automated Model Selection
+## Meta-Learning Framework for Automated Model Selection
 
-Machine Learning framework that recommends the optimal forecasting model using statistical meta-features.
+Machine learning framework that recommends the best forecasting model using statistical meta-features and a Random Forest meta-learner.
 
-**Highlights**
-- ARIMA
-- Prophet
-- Random Forest Meta-Learner
-- Automated Model Selection
-- Streamlit Dashboard
+### Highlights
 
-**Tech Stack**
+- Automated forecasting model recommendation
+- Evaluated ARIMA, Prophet, and ML models
+- Random Forest meta-learning approach
+- Interactive Streamlit application
+
+### Tech Stack
 
 `Python` `Scikit-learn` `Pandas` `Statsmodels` `Prophet` `Streamlit`
 
-🔗 Repository:
+**Repository:**  
 https://github.com/saichetanreddy07/Meta-Learning-Time-Series-Forecasting
 
 ---
 
-## 🛠 Tech Stack
+# Technical Skills
 
-### Programming
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+`Python` `Java` `SQL`
 
-### AI & Machine Learning
+## AI & LLMs
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+`Large Language Models (LLMs)` `Retrieval-Augmented Generation (RAG)` `LangChain` `Prompt Engineering` `Semantic Search` `Vector Databases`
 
-### Databases
+## Machine Learning
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+`Scikit-learn` `Time-Series Forecasting` `Feature Engineering` `Model Evaluation`
 
-### Data Analytics
+## Backend
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+`FastAPI` `REST APIs` `SQLAlchemy` `Pydantic`
+
+## Data Analytics
+
+`Pandas` `NumPy` `ETL` `Data Cleaning` `Data Validation` `Power BI` `Tableau` `Matplotlib`
+
+## Databases
+
+`MySQL` `PostgreSQL` `ChromaDB`
+
+## Tools
+
+`Git` `GitHub` `VS Code` `PyCharm` `Jupyter Notebook` `Gradio` `Streamlit` `Ollama`
 
 ---
 
-## 📜 Certifications
+# Certifications
 
 - IBM Data Science Professional Certificate
 - Google Data Analytics Professional Certificate
@@ -108,12 +132,16 @@ https://github.com/saichetanreddy07/Meta-Learning-Time-Series-Forecasting
 
 ---
 
-## 📫 Connect With Me
+# Connect
 
-- Email: **badvel.saichetanreddy@gmail.com**
-- LinkedIn: *(https://www.linkedin.com/in/sai-chetan-reddy-a18b4624b/)*
-- GitHub: **github.com/saichetanreddy07**
+**Email:** badvel.saichetanreddy@gmail.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/sai-chetan-reddy-a18b4624b/
+
+**GitHub:**  
+https://github.com/saichetanreddy07
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
