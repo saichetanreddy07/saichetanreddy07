@@ -1,57 +1,87 @@
-# Hey, I'm Sai Chetan Reddy 👋
+<div align="center">
 
-**I build AI stuff because it's fun, and because there's no ceiling on what you can make with it.**
+# 🐈 Hi, I'm Sai Chetan Reddy
 
-CS grad (AI specialization) looking for AI/ML engineer roles. I like turning "wouldn't it be cool if..." ideas into things that actually run.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=650&lines=AI%2FML+engineer+in+the+making;I+built+an+offline+Pok%C3%A9dex+%F0%9F%94%B4;Omen+%2B+Fade+main.+Hardstuck+Gold+and+proud.;Cat+person.+Panda+fan.+Axolotl+evangelist." alt="typing" />
 
----
+**CS graduate (Artificial Intelligence) looking for my first AI/ML engineer role.**
 
-## A bit about me
-
-I got into AI because of how wide open it is. You can build almost anything with it, and a lot of what you can build is just plain cool. When I'm not coding, I'm usually playing or watching cricket and football, or queuing up Valorant.
+</div>
 
 ---
 
-## What I've built
+## 🎮 Player Card
+
+| | |
+|---|---|
+| **Name** | Sai Chetan Reddy |
+| **Class** | CS grad, AI specialization |
+| **Main quest** | Landing my first AI/ML engineer role |
+| **Why AI?** | The scope is huge, and you can build things that are genuinely cool and fun |
+| **Side quests** | Cricket 🏏 · Football ⚽ · Valorant 🎯 |
+| **Valorant mains** | Omen & Fade (rank: hardstuck Gold) |
+| **Favorite animal** | Cats 🐈 (pandas, tigers, foxes, and axolotls are close behind) |
+| **Currently building** | 🍽️ RestaurantAI, a restaurant inventory system. The backend is done; the React frontend is in progress |
+
+---
+
+## 🧭 Life Mantra
+
+> **Build cool things. Break them. Learn why. Repeat.**
+> If it's not fun, I'm probably building it wrong.
+
+---
+
+## 🗺️ Match History (Projects)
 
 ### 🔴 PokéDex AI
-*What if we had an IRL Pokédex?*
+*It started with "what if we had an IRL Pokédex?" and turned into my way of learning RAG.*
+Ask it Pokémon questions, get team recommendations, or have it analyze your team. It runs locally on Phi-3 via Ollama, searches 1,576 documents in ChromaDB, and has a FastAPI backend with a Gradio UI.
+[Repo →](https://github.com/saichetanreddy07/pokedex-ai-rag)
 
-I wanted to learn RAG properly, and building a Pokédex I'd actually want to use seemed like the best way. Ask it anything about Pokémon, get a team recommendation, or have it pick apart your team's weaknesses.
+### 📈 ARIMA or Prophet?
+A meta-learning project that predicts which forecasting model will do better on a time series, without fitting both. Trained on 1,359 M4 series, reaching 69.12% holdout accuracy, with a Streamlit app on top.
+[Repo →](https://github.com/saichetanreddy07/Meta-Learning-Time-Series-Forecasting)
 
-- 1,576 documents (Pokémon, moves, evolution chains) indexed in ChromaDB
-- Runs fully local with Phi-3 on Ollama, with a FastAPI backend and Gradio UI
-- Falls back to rule-based answers when the LLM isn't enough
+### 🛒 E-commerce SQL & BI Platform
+Python ETL on a 5+ GB events dataset, a 4-table PostgreSQL schema, 39 business questions answered in SQL, and a 4-page Power BI dashboard.
+[Repo →](https://github.com/saichetanreddy07/ecommerce-sql-bi-platform)
 
-`Python` `FastAPI` `ChromaDB` `Ollama` `Gradio` → [Repo](https://github.com/saichetanreddy07/pokedex-ai-rag)
-
-### 📈 ARIMA or Prophet? Let the data decide
-Instead of fitting both models every time, I trained a classifier to guess which one will forecast a series better, using 10 statistical features. It reached 69% accuracy across 1,359 series from the M4 benchmark.
-
-`Python` `Scikit-learn` `Prophet` `Streamlit` → [Repo](https://github.com/saichetanreddy07/Meta-Learning-Time-Series-Forecasting)
-
-### 🛒 E-commerce Analytics Platform
-Took a 5+ GB events dataset, cleaned it, loaded it into PostgreSQL, answered 39 business questions in SQL, and wrapped it in a 4-page Power BI dashboard.
-
-`Python` `PostgreSQL` `Power BI` → [Repo](https://github.com/saichetanreddy07/ecommerce-sql-bi-platform)
-
-### 🍽️ RestaurantAI *(building right now)*
-A backend that tracks inventory, uses up the oldest stock first, and tells you which dishes you can still serve. The React dashboard is next.
-
-`FastAPI` `MySQL` `React` `TypeScript` → [Repo](https://github.com/saichetanreddy07/Restaurant-AI)
+### 🍽️ RestaurantAI 🚧
+FastAPI + MySQL backend that tracks inventory lots, uses the soonest-expiring stock first, and works out which dishes are still available. React + TypeScript frontend on the way.
+[Repo →](https://github.com/saichetanreddy07/Restaurant-AI)
 
 ---
 
-## Currently
-- 🛠️ Finishing the RestaurantAI frontend
-- 🎯 Looking for my first AI/ML engineer role
+## 🎒 Loadout
 
-## Toolbox
-Python · SQL · FastAPI · LLMs & RAG · Scikit-learn · Pandas · PostgreSQL · Power BI
+[![Loadout](https://skillicons.dev/icons?i=py,java,fastapi,postgres,mysql,react,ts,pandas,numpy,git,github,vscode,pycharm&perline=7)](https://skillicons.dev)
 
 ---
 
-## Say hi
-📧 badvel.saichetanreddy@gmail.com · [LinkedIn](https://www.linkedin.com/in/sai-chetan-reddy-a18b4624b/)
+## 🐾 Animal Corner
 
-*Open to AI/ML roles. Also open to talking cricket or Valorant.*
+I love animals, cats most of all, and I'd like to use AI for wildlife conservation someday.
+
+**Fun fact:** 🦎 Axolotls can regrow lost limbs, and even parts of their heart, spinal cord, and brain. Respawn mechanics, but real.
+
+Want to help? → [WWF-India](https://www.wwfindia.org/)
+
+---
+
+## 😂 Valorant Corner
+
+> 🎯 Pushing to prod on a Friday is like rushing mid with no utility: bold, loud, and usually a lesson.
+
+> 🌑 Omen mains teleport away from problems. Developers call this `git stash`.
+
+> 🥇 Hardstuck Gold is basically a well-regularized model: no overfitting, no underfitting, just stable.
+
+---
+
+## 📬 Contact
+
+Open to **AI/ML engineer roles**. Cricket debates, Valorant jokes, and cat pictures are also welcome.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badvel.saichetanreddy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-chetan-reddy-a18b4624b/)
