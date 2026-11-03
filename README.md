@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐈 Hi, I'm Sai Chetan Reddy
+# Hi, I'm Sai Chetan Reddy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=650&lines=AI%2FML+engineer+in+the+making;I+built+an+offline+Pok%C3%A9dex+%F0%9F%94%B4;Omen+%2B+Fade+main.+Hardstuck+Gold+and+proud.;Cat+person.+Panda+fan.+Axolotl+evangelist." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=650&lines=AI%2FML+engineer+in+the+making;I+built+an+offline+Pok%C3%A9dex+%F0%9F%94%B4;Omen+%2B+Fade+main.+Hardstuck+Gold+and+proud." alt="typing" />
 
 **CS graduate (Artificial Intelligence) looking for my first AI/ML engineer role.**
 
